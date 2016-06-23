@@ -1,5 +1,27 @@
-baseurl: "/resumecards" # The subpath of your site. Use "" if you're hosting a blog at the root level.
-url: "http://localhost:4000/resumecards/" # the base hostname & protocol for your site
+#######################################
+########### personal information ######
+#######################################
+name: "康志华"
+copy: "一个爱折腾的Java程序猿"
+motto: "生命不止，折腾不休！"
+
+# Color scheme based on http://www.materialui.co/colors.
+# Possible values:
+# - default
+# - red
+# - pink
+# - brown
+# - blue
+# - purple
+# - teal
+# - green
+color: blue
+
+#######################################
+######## Site informations ############
+#######################################
+baseurl: "/Resume.io" # The subpath of your site. Use "" if you're hosting a blog at the root level.
+url: "http://localhost:4000/Resume.io/" # the base hostname & protocol for your site
 
 exclude:
   - "README.md"
