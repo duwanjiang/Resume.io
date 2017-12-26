@@ -2,7 +2,7 @@
 type: "Work Experience"
 heading: "产品研发组"
 subheading: "Java高级软件工程师"
-duration: "May 2015 – Present"
+duration: "May 2015 – July 2017"
 location: "东软云科技有限公司 - 大连"
 ---
 
