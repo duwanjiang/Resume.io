@@ -1,4 +1,5 @@
 ---
+category: cn
 type: "Work Experience"
 heading: "产品研发组"
 subheading: "Java高级软件工程师"

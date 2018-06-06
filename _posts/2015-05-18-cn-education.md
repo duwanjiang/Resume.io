@@ -1,4 +1,5 @@
 ---
+category: cn
 type: "Education"
 heading: "大连交通大学信息工程学院"
 subheading: "软件工程"

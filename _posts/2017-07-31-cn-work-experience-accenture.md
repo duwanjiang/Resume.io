@@ -1,4 +1,5 @@
 ---
+category: cn
 type: "Work Experience"
 heading: "NEW IT"
 subheading: "微服务开发工程师"

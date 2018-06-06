@@ -1,4 +1,5 @@
 ---
+category: cn
 type: "Work Experience"
 heading: "Personalization"
 subheading: "Java软件工程师"

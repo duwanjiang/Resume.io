@@ -1,4 +1,5 @@
 ---
+category: cn
 type: "Work Experience"
 heading: "Windows Live"
 subheading: "C#软件开发工程师(实习)"

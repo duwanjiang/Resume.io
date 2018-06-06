@@ -21,7 +21,7 @@
     {% include scripts.html %}
 
   </head>
-  <body class="theme-default">
+  <body class="theme-steel">
 
     <nav class="navbar navbar-default hidden-print hidden-xs" role="navigation">
         <div class="resume-nav">
@@ -38,9 +38,9 @@
             <img src="{{ "/resources/header.JPG" | prepend:site.baseurl }}" class="img-rounded" width="120" height="120">
           </figure>
           <div class="resume-baseinfo">
-            <h1>康志华</h1>
-            <p><b>一个爱折腾的Java程序猿</b></p>
-            <p>生命不止，折腾不休！持续关注高性能，高可用，分布式，高并发！</p>
+            <h1>Freud Kang</h1>
+            <p><b>Stay hungry, stay foolish!</b></p>
+            <p>{{ site.motto }}</p>
           </div>
         </div>
         <div class="col-sm-4 resume-contact">
@@ -49,7 +49,6 @@
       </div>
       <div class="row">
         {% for card in site.posts %}
-          {% if card.category=='cn' %}
           <div class="col-sm-4">
             <div class="panel panel-default">
               <div class="panel-heading">
@@ -80,7 +79,6 @@
               </div>
             </div>
           </div>
-          {% endif %}
         {% endfor %}
       </div>
     </div>
