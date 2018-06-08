@@ -7,4 +7,4 @@ duration: "October 2012 – December 2013"
 location: "Fidelity - Dalian"
 ---
 
-主要负责基于IBM Websphere Message Broker的SOA开发。为公司各个团队之间实现数据转换，提供解耦服务。
+I was responsible for the SOA development work using IBM Websphere Message Broker. We provide data translate and decoupling between other teams communication.

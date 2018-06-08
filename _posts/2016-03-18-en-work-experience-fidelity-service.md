@@ -7,4 +7,4 @@ duration: "December 2013 – October 2014"
 location: "Fidelity - Dalian"
 ---
 
-主要负责新架构下的Platform从1.0到2.0代码迁移开发工作，并且为团队提供IBM Websphere Messge Broker 8.0技术支持。
+I was responsible for using new technology to archieve the requirements which were migrated from platform 1.0 to 2.0. Also provide IBM Websphere Messge Broker 8.0 support to the team other members.

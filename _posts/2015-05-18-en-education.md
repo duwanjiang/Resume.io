@@ -1,10 +1,10 @@
 ---
 category: en
 type: "Education"
-heading: "大连交通大学信息工程学院"
-subheading: "软件工程"
+heading: "Dalian Jiaotong University Information Engineering College"
+subheading: "Software Engineering"
 duration: "2008 – 2012"
-location: "大连, PRC"
+location: "Dalian, PRC"
 ---
 
-在校期间主要学习计算机基础原理，软件开发语言，软件过程管理和测试理论。
+Learining the basic principle of computer, develop language, software lifecycle management and test theory.
