@@ -1,7 +1,7 @@
 ---
 category: en
 type: "Work Experience"
-heading: "Product Develp Team"
+heading: "Product Develop Team"
 subheading: "Senior Software Engineer"
 duration: "October 2014 – May 2015"
 location: "Neusoft - Dalian"
