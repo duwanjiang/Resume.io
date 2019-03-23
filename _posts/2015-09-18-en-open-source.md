@@ -1,6 +1,6 @@
 ---
 category: en
-type: "Open Source"
+--type: "Open Source"
 ---
 
 * <a href="https://github.com/luoyan35714/Socket.io-Monitor" target="_blank">Socket.io-Monitor</a>: A tool to monitor the connections in Socket.io

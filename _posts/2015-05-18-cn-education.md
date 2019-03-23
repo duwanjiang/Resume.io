@@ -1,10 +1,10 @@
 ---
 category: cn
 type: "Education"
-heading: "大连交通大学信息工程学院"
-subheading: "软件工程"
-duration: "2008 – 2012"
-location: "大连, PRC"
+heading: "重庆交通大学"
+subheading: "信息管理与信息系统"
+duration: "2009 – 2013"
+location: "重庆，中国"
 ---
 
-在校期间主要学习计算机基础原理，软件开发语言，软件过程管理和测试理论。
+在校期间主要学习计算机基础原理、汇编语言、Java软件开发、计算机算法等。

@@ -1,6 +1,6 @@
 ---
 category: cn
-type: "Open Source"
+--type: "Open Source"
 ---
 
 * <a href="https://github.com/luoyan35714/Socket.io-Monitor" target="_blank">Socket.io-Monitor</a>: 一个监控socket.io连接的工具
