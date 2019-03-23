@@ -1,7 +1,7 @@
 #######################################
 ########### personal information ######
 #######################################
-name: "康志华"
+name: "杜万江"
 copy: "一个爱折腾的Java程序猿"
 motto: "生命不止，折腾不休！持续关注高性能，高可用，分布式，高并发！"
 
@@ -21,7 +21,7 @@ color: teal
 ######## Site informations ############
 #######################################
 baseurl: "/Resume.io" # The subpath of your site. Use "" if you're hosting a blog at the root level.
-url: "http://localhost:4000/Resume.io/" # the base hostname & protocol for your site
+url: "http://duwanjiang.com/Resume.io/" # the base hostname & protocol for your site
 
 exclude:
   - "README.md"
