@@ -2,10 +2,11 @@
 category: cn
 type: "Work Experience"
 heading: "Product Develop Team"
-subheading: "Java开发工程师"
-duration: "July 2015 – 至今"
+subheading: "Java团队负责人"
+duration: "2013.07 – 至今"
 location: "COSCO - 重庆"
 ---
 
-主要从事国内高速公路相关的管理系统开发，主要技术采用SSH(Spring+SpringMVC+Hibernate)框架。
+* 开发职责：负责重庆、四川、青海、宁夏、贵州等高速公路收费相关管理系统和生产系统的架构、设计、开发和项目管理。
+* 管理职责：2018年成为Java团队负责人，负责成员的工作划分、项目进度控制和绩效考核。
 

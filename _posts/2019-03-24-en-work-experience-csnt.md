@@ -2,9 +2,10 @@
 category: en
 type: "Work Experience"
 heading: "Product Develop Team"
-subheading: "Java Software Engineer"
-duration: "July 2015 – Present"
+subheading: "Java team leader"
+duration: "July 2013 – Present"
 location: "COSCO - Chongqing"
 ---
 
-Mainly engaged in domestic highway related management system development. The key technology what we are using are Spring , SpringMVC, Hibernate and so on.
+* Development responsibilities: responsible for the framework, design, development and project management of expressway toll related management systems and production systems in Chongqing, Sichuan, Qinghai, Ningxia, Guizhou, etc.
+* Management responsibilities: In 2018, became the member of Java, responsible for project management and team performance control.
